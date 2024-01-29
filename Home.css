@@ -798,6 +798,9 @@ margin:  1rem auto;
     }
 }
 @media (min-width :499px) and (max-width:769px) {
+      *{
+        background-color:pink;
+    }
     .rs1 {
         font-size: 1rem !important;
         margin-top: 3rem !important;
@@ -1073,6 +1076,9 @@ margin:  1rem auto;
     }
 }
 @media (min-width :349px) and (max-width:499px) {
+      *{
+        background-color:blue;
+    }
     .rs1 {
         font-size: 1rem !important;
         margin-top: 3rem !important;
@@ -1419,6 +1425,9 @@ margin:  1rem auto;
 
 }
 @media (min-width :270px) and (max-width:349px) {
+    *{
+        background-color:red;
+    }
     .rs1 {
         font-size: 12px !important;
         margin-top: 3rem !important;
